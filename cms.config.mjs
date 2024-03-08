@@ -1,4 +1,4 @@
-import { authors, blog, landing, pages } from "./src/cms/collections";
+import { authors, blog } from "./src/cms/collections";
 
 const config = {
   backend: {
@@ -7,7 +7,7 @@ const config = {
   },
   media_folder: "public/images",
   public_folder: "/images",
-  collections: [blog, authors, pages, landing],
+  collections: [blog, authors],
   previewStyles: ["/src/styles/global.css"],
 };
 
