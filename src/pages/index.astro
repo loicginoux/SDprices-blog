@@ -88,13 +88,15 @@ const posts = (await getCollection('blog')).sort(
   <body>
     <Header />
     <main>
+      <p>Warning: This page should not be reached from. Only for local dev.</p>
+      <p>sdprices.com/blog should only redirect to blog.sdprices.com/blog so it should go directly to blog subdirectory</p>
       <section>
         <ul>
           {
             posts.map((post) => (
               <li>
                 <a href={`/blog/posts/${post.slug}/`}>
-                  <img width={720} height={360} src={`/blog${post.data.heroImage}`} alt="" />
+                  <img width={720} height={360} src={`${post.data.heroImage}`} alt="" />
                   <h4 class="title">{post.data.title}</h4>
                   <p class="date">
                     <FormattedDate date={post.data.pubDate} />

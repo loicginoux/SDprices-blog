@@ -5,7 +5,7 @@ description: Here is a sample of some basic Markdown syntax that can be used
 pubDate: Jul 01 2022
 updatedDate: 21 Aug 2023
 author: Nathan Schmidt
-heroImage: /images/blog-placeholder-1.jpg
+heroImage: /blog/images/blog-placeholder-1.jpg
 ---
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
 
