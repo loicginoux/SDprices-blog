@@ -8,6 +8,6 @@ import config from "./cms.config.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://sdprices.com",
   integrations: [mdx(), NetlifyCMS({ config: config }), sitemap()],
 });
