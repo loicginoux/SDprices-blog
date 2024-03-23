@@ -40,7 +40,7 @@ GoPro cameras are the go-to choice for adventurers and action enthusiasts, captu
 
 **Speed and Quality**: The Kingston Canvas Select Plus combines speed and storage capacity, ensuring smooth GoPro video recording.
 
-* **Key Features**: Available in sizes up to 512GB, with read speeds of up to 285 MB/s.
+* **Key Features**: Available in sizes up to 512GB, with read speeds of up to 100 MB/s.
 * **Best For**: GoPro videographers needing high-speed storage for their adventures.
 
 ### **Elevate Your GoPro Experience**
