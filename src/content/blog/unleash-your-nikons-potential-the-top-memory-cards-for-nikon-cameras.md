@@ -18,7 +18,7 @@ heroImage: /images/nikon-cameras.avif
 
 **Professional-Grade Performance**: The SanDisk Extreme Pro SDXC card is designed for professional photographers, offering blazing-fast speed and reliability.
 
-* **Key Features**: Available in capacities up to 1TB, with read speeds of up to 170 MB/s and write speeds of up to 90 MB/s.
+* **Key Features**: Available in capacities up to 1TB, with read speeds of up to 260 Mo/s and write speeds of up to 300 Mo/s.
 * **Best For**: Professional Nikon photographers and enthusiasts who demand top-tier performance for high-resolution images and 4K video.
 
 ## **Lexar Professional 2000x SDHC/SDXC**
@@ -39,7 +39,7 @@ heroImage: /images/nikon-cameras.avif
 
 **Balanced Performance**: The Kingston Canvas React SDHC/SDXC card offers a balance between speed and capacity, suitable for a range of Nikon cameras.
 
-* **Key Features**: Available in sizes up to 512GB, with read speeds of up to 240 MB/s.
+* **Key Features**: Available in sizes up to 512GB, with read speeds of up to 300 MB/s.
 * **Best For**: Nikon photographers seeking reliable and fast storage for everyday photography.
 
 ## **Samsung PRO Endurance**
