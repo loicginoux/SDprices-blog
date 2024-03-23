@@ -21,21 +21,21 @@ heroImage: /images/nikon-cameras.avif
 * **Key Features**: Available in capacities up to 1TB, with read speeds of up to 260 Mo/s and write speeds of up to 300 Mo/s.
 * **Best For**: Professional Nikon photographers and enthusiasts who demand top-tier performance for high-resolution images and 4K video.
 
-## **Lexar Professional 2000x SDHC/SDXC**
+## **[Lexar Professional 2000x SDHC/SDXC](https://amzn.to/3xb3lWj)**
 
 **Ultimate Speed for High-Resolution**: The Lexar Professional 2000x SDHC/SDXC card is tailored for high-resolution photography and fast data transfer.
 
 * **Key Features**: Available in capacities up to 256GB, with read speeds of up to 300 MB/s, ideal for burst shooting and 4K video recording.
 * **Best For**: Nikon photographers working with large RAW files and high-definition video.
 
-## **Sony TOUGH-G series SDXC**
+## **[Sony TOUGH-G series SDXC](https://amzn.to/4crEIF0)**
 
 **Built for Durability**: The Sony TOUGH-G series SDXC card is not only fast but also rugged, designed to withstand challenging shooting conditions.
 
 * **Key Features**: Available in capacities up to 256GB, with read speeds of up to 300 MB/s and write speeds of up to 299 MB/s.
 * **Best For**: Nikon photographers in demanding environments who need both speed and durability.
 
-## **Kingston Canvas React SDHC/SDXC**
+## **[Kingston Canvas React SDHC/SDXC](https://amzn.to/3PygSNU)**
 
 **Balanced Performance**: The Kingston Canvas React SDHC/SDXC card offers a balance between speed and capacity, suitable for a range of Nikon cameras.
 
