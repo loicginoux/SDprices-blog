@@ -42,13 +42,6 @@ heroImage: /images/nikon-cameras.avif
 * **Key Features**: Available in sizes up to 512GB, with read speeds of up to 300 MB/s.
 * **Best For**: Nikon photographers seeking reliable and fast storage for everyday photography.
 
-## **Samsung PRO Endurance**
-
-**Longevity and Reliability**: The Samsung PRO Endurance card is built for long-term use, making it a dependable choice for Nikon photographers.
-
-* **Key Features**: Available in capacities up to 128GB, with read speeds of up to 100 MB/s.
-* **Best For**: Nikon photographers who require a memory card that can withstand continuous use and frequent overwrites.
-
 ## **Conclusion**
 
 Your Nikon camera deserves the best memory card to capture breathtaking images. Whether you're a professional photographer or an enthusiast, these top memory cards cater to various Nikon users' needs and preferences.
