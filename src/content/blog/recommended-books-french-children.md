@@ -20,3 +20,4 @@ updatedDate: ""
 
   * [Tome 1](https://amzn.to/4a5YxQv)
   * [Tome 2](https://amzn.to/4cvcg5a)
+* [Coincé dans le jeu vidéo](https://amzn.to/49oHIzn)
