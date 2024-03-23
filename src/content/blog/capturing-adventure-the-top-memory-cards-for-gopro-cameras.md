@@ -22,21 +22,21 @@ GoPro cameras are the go-to choice for adventurers and action enthusiasts, captu
 * **Key Features**: Available in capacities up to 1TB, with read speeds of up to 160 MB/s and write speeds of up to 90 MB/s.
 * **Best For**: GoPro users who demand fast and consistent performance for recording in challenging environments.
 
-### **Lexar Professional 1800x**
+### **[Lexar Professional 1066x](https://amzn.to/43yuH4Y)**
 
-**High-Speed Adventures**: The Lexar Professional 1800x microSD card is designed for users who require lightning-fast data transfer rates.
+**High-Speed Adventures**: The Lexar Professional 1066x microSD card is designed for users who require lightning-fast data transfer rates.
 
-* **Key Features**: Comes in capacities up to 256GB, with read speeds of up to 270 MB/s, making it ideal for 4K and 8K video recording.
+* **Key Features**: Comes in capacities up to 256GB, with read speeds of up to 160 MB/s, making it ideal for 4K and 8K video recording.
 * **Best For**: GoPro filmmakers and enthusiasts capturing high-resolution action footage.
 
-### **Samsung EVO Select**
+### **[Samsung EVO Select](https://amzn.to/3TydcwK)**
 
 **Reliable and Affordable**: The Samsung EVO Select offers a balance between reliability and affordability, making it a solid choice for GoPro users.
 
 * **Key Features**: Available in sizes up to 512GB, with read speeds of up to 100 MB/s and write speeds of up to 90 MB/s.
 * **Best For**: Budget-conscious GoPro users looking for dependable storage.
 
-### **Kingston Canvas Select Plus**
+### **[Kingston Canvas Select Plus](https://amzn.to/497sZIW)**
 
 **Speed and Quality**: The Kingston Canvas Select Plus combines speed and storage capacity, ensuring smooth GoPro video recording.
 
