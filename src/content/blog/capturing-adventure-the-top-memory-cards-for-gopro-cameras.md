@@ -15,7 +15,7 @@ GoPro cameras are the go-to choice for adventurers and action enthusiasts, captu
 
 **Compatibility and Speed**: When choosing a memory card for your GoPro, ensure it's compatible with your camera model and offers the required speed for high-quality video recording.
 
-### **SanDisk Extreme microSD**
+### **[SanDisk Extreme microSD](https://amzn.to/3PyoS1s)**
 
 **Optimized for Action**: The SanDisk Extreme microSD card is tailored for GoPro cameras, providing reliability and speed for action-packed recording.
 
@@ -42,13 +42,6 @@ GoPro cameras are the go-to choice for adventurers and action enthusiasts, captu
 
 * **Key Features**: Available in sizes up to 512GB, with read speeds of up to 285 MB/s.
 * **Best For**: GoPro videographers needing high-speed storage for their adventures.
-
-### **Sony Tough SF-G**
-
-**Durable and Dependable**: Sony's Tough SF-G card is built for durability and performance, making it an excellent choice for rugged GoPro use.
-
-* **Key Features**: Available in capacities up to 128GB, with read speeds of up to 300 MB/s and write speeds of up to 299 MB/s.
-* **Best For**: GoPro users in extreme environments where durability is paramount.
 
 ### **Elevate Your GoPro Experience**
 
